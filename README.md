@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Omar Manuel Manrique Galván</h1>
 <h3 align="center">Soy un desarrollador web Full-Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omargalvan-v2&label=Profile%20views&color=0e75b6&style=flat" alt="omargalvan-v2" /> </p>
-
 - 🌱 Actualmente estoy aprendiendo **JavaScript y Python**
 
 - 📫 Puedes contactarme a mi correo **omar_galvan@outlook.es**
