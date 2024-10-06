@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Omar Manuel Manrique Galván</h1>
 <h3 align="center">Soy un desarrollador web Full-Stack</h3>
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript y Python**
+- 🌱 Actualmente estoy aprendiendo **JavaScript y Java **
 
 - 📫 Puedes contactarme a mi correo **omar_galvan@outlook.es**
 
